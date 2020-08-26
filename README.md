@@ -1,5 +1,6 @@
 <sub>Art montage by me in appreciation of <a href="https://kingsanda.tumblr.com/">one of my favourite artists</a></sub></br></br>
 <img src="https://i.imgur.com/kDndQ6I.jpg" width="300"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+</br><sub>(actually my name is Giovani, but this way doesn't sound that cool)</sub>
 
 <a href="https://www.linkedin.com/in/giovani-anhesini-bezerra/">
   <img align="left" alt="Djowvani's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
