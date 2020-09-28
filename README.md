@@ -9,14 +9,15 @@
   <img align="left" alt="Djowvani's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" />
 </a>
 <a href="https://api.whatsapp.com/send?phone=551987214726&text=Hey!%20You've%20reached%20Giovani's%20Led%20ZapZapplin">
-  <img align="left" alt="Djowvani's WhatsAppr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  <img align="left" alt="Djowvani's WhatsAppr" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733641.svg" />
 </a>
 <a href="https://www.instagram.com/djowvani_/">
-  <img align="left" alt="Djowvani's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Djowvani's Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1051/1051313.svg" />
 </a>
 <a href="https://www.facebook.com/giovani.anhesinibezerra">
   <img align="left" alt="Djowvani's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/facebook.svg" />
 </a></br></br>
+<div>Ícones feitos por <a href="https://www.flaticon.com/br/autores/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
 
 <img align="right" src="https://i.imgur.com/AX5QxU6.gif" width="200">
 
