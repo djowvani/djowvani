@@ -8,7 +8,7 @@
 <a href="https://medium.com/@gioanhesini">
   <img align="left" alt="Djowvani's Medium" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_256332.svg" />
 </a>
-<a href="https://api.whatsapp.com/send?phone=551987214726&text=Hey!%20You've%20reached%20Giovani's%20Led%20ZapZapplin">
+<a href="https://api.whatsapp.com/send?phone=5519989613158&text=Hey!%20You've%20reached%20Giovani's%20Led%20Zapplin">
   <img align="left" alt="Djowvani's WhatsAppr" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384007.svg" />
 </a>
 <a href="https://www.instagram.com/djowvani_/">
