@@ -12,7 +12,7 @@
   <img align="left" alt="Djowvani's WhatsApp" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384007.svg" />
 </a>
 <a href="https://www.instagram.com/djowvani_/">
-  <img align="left" alt="Djowvani's Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384015.svg" />
+  <img align="left" alt="Djowvani's Instagram" width="22px" src="https://i.imgur.com/FGby7Dt.png" />
 </a>
 </br></br>
 
