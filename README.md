@@ -3,13 +3,13 @@
 </br><sub>(actually my name is Giovani, but this way doesn't sound that cool)</sub>
 
 <a href="https://www.linkedin.com/in/gioanhesini/">
-  <img align="left" alt="Djowvani's LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384014.svg" />
+  <img align="left" alt="Djowvani's LinkedIn" width="22px" src="https://i.imgur.com/tf9UeWE.png" />
 </a>
 <a href="https://medium.com/@gioanhesini">
-  <img align="left" alt="Djowvani's Medium" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_256332.svg" />
+  <img align="left" alt="Djowvani's Medium" width="22px" src="https://i.imgur.com/ll0aCNI.png" />
 </a>
 <a href="https://api.whatsapp.com/send?phone=5519989613158&text=Hey!%20You've%20reached%20Giovani's%20Led%20Zapplin">
-  <img align="left" alt="Djowvani's WhatsApp" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384007.svg" />
+  <img align="left" alt="Djowvani's WhatsApp" width="22px" src="https://i.imgur.com/2ivr99l.png" />
 </a>
 <a href="https://www.instagram.com/djowvani_/">
   <img align="left" alt="Djowvani's Instagram" width="22px" src="https://i.imgur.com/FGby7Dt.png" />
