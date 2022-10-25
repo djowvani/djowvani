@@ -17,8 +17,8 @@
 
 <img align="right" src="https://i.imgur.com/AX5QxU6.gif" width="200">
 
-- 🔭 I’m currently working with React and Node.js at Venturus
-- 🌱 I’m currently learning about TypeSript and Clean Architecture
+- 🔭 I’m currently working with React + Next.js on TypeScript
+- 🌱 I’m currently learning about React Native and Three.js
 - 💬 Ask me about anything and everything, get in touch!
 - 📫 How to reach me: <a>gioanhesini@gmail.com</a>
 - 😄 Pronouns: He / Him
