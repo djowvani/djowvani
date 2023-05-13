@@ -1,4 +1,3 @@
-<!-- <sub>Art montage by me in appreciation of <a href="https://kingsanda.tumblr.com/">one of my favourite artists</a></sub></br></br> -->
 <img src="https://i.imgur.com/hSqrrhW.jpg" />
 <img src="https://i.imgur.com/kDndQ6I.jpg" width="300" /> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" />
 
