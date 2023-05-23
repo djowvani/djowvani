@@ -17,12 +17,12 @@
 
 <img align="right" src="https://i.imgur.com/AX5QxU6.gif" width="200" />
 
-- 🔭 I’m currently working with React + Next.js on TypeScript
-- 🌱 I’m currently learning about React Native and Three.js
+- 🔭 I’m currently working with React / Next.js / Vite.js + TypeScript
+- 🌱 I’m currently learning about Microfrontends
 - 💬 Ask me about anything and everything, get in touch!
 - 📫 How to reach me: <a>gioanhesini@gmail.com</a>
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: HunterXHunter is the best anime 🎣
+- ⚡ Fun fact: I think most my lifetime hours are on a computer 🤖
 
 ### My stats so far
 <img alt="Djowvani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=djowvani&&show_icons=true&title_color=0e0e0e&icon_color=0e0e0e&text_color=0e0e0e&bg_color=e0e0e0" />
