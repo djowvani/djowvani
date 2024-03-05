@@ -17,8 +17,8 @@
 
 <img align="right" src="https://i.imgur.com/AX5QxU6.gif" width="200" />
 
-- 🔭 I’m currently working with React / Next.js / Vite.js + TypeScript
-- 🌱 I’m currently learning about Microfrontends
+- 🔭 I’m currently working with React / Next.js / Vite.js / TypeScript
+- 🌱 I’m currently learning about Microfrontends / Threejs / Game development
 - 💬 Ask me about anything and everything, get in touch!
 - 📫 How to reach me: <a>gioanhesini@gmail.com</a>
 - 😄 Pronouns: He / Him
