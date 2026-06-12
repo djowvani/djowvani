@@ -17,12 +17,12 @@
 
 <img align="right" src="https://i.imgur.com/AX5QxU6.gif" width="200" />
 
-- 🔭 I’m currently working with React / Next.js / Vite.js / TypeScript
+- 🔭 I’m currently working with Vite / React / Next.js / TypeScript
 - 🌱 I’m currently learning about Microfrontends / Threejs / Game development
 - 💬 Ask me about anything and everything, get in touch!
 - 📫 How to reach me: <a>gioanhesini@gmail.com</a>
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I'd say most my lifetime hours are on a computer 🤖
+- ⚡ Fun fact: Around 90% of my total lifetime hours are on a computer, it is what it is
 
 ### My stats so far
 <img alt="Djowvani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=djowvani&&show_icons=true&title_color=0e0e0e&icon_color=0e0e0e&text_color=0e0e0e&bg_color=e0e0e0" />
